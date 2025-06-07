@@ -28,6 +28,7 @@ jobs:
 
       - name: Run tests and collect coverage
         run: |
+          export PYTHONPATH=src
           coverage run -m pytest
           coverage xml
 
