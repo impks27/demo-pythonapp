@@ -31,6 +31,7 @@ jobs:
           export PYTHONPATH=src
           coverage run -m pytest
           coverage xml
+          ls -la
 
       - name: Run SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@v2
