@@ -1,0 +1,7 @@
+organization=impks27-org
+projectKey=demo_python_app_3
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.64232
+dashboardUrl=https://sonarcloud.io/dashboard?id=demo_python_app_3
+ceTaskId=AZdJh3orc2fM-2e5URYX
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZdJh3orc2fM-2e5URYX
